@@ -1,4 +1,4 @@
-package com.example.tiketpertandingan.ui.theme
+package com.example.tiketpertandingan.ui.theme.theme
 
 import androidx.compose.ui.graphics.Color
 

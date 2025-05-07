@@ -1,4 +1,4 @@
-package com.example.tiketpertandingan.ui.theme
+package com.example.tiketpertandingan.ui.theme.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
