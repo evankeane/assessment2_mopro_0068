@@ -6,11 +6,12 @@ import androidx.room.Insert
 import androidx.room.Query
 import androidx.room.Update
 import com.example.tiketpertandingan.entity.Pertandingan
+import kotlinx.coroutines.flow.Flow
 
 @Dao
 interface PertandinganDao {
-    @Query("SELECT * FROM pertandingan")
-    suspend fun getAll(): List<Pertandingan>
+    @Query("SELECT * FROM pertandingan ORDER BY tanggal DESC")
+    fun getPertandingan(): Flow<List<Pertandingan>>
 
     @Insert
     suspend fun insert(pertandingan: Pertandingan)

@@ -11,3 +11,7 @@ data class Pertandingan(
     val tanggal: String,
     val lokasiStadion: String
 )
+
+
+
+
