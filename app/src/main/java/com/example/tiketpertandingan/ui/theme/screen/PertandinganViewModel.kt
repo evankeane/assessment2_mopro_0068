@@ -25,7 +25,7 @@ class PertandinganViewModel : ViewModel() {
             1,
             "PSG",
             "Inter Milan",
-            "1 Juni 2025, 02:00",
+            "01 Juni 2025, 02:00",
             "Allianz Arena "
         ),
 

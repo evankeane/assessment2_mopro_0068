@@ -1,7 +1,16 @@
-<resources>
-    <string name="app_name">Aplikasi Tiket Bola</string>
-    <string name="tambah_tiket">Tambah Tiket</string>
-    <string name="tambah_pertandingan">Tambah Pertandingan</string>
-    <string name="pengaturan">Pengaturan</string>
-    <string name="kembali">Kembali</string>
-</resources>
+
+
+    <resources>
+        <string name="app_name">Tiket Bola</string>
+        <string name="tambah_tiket">Tambah Tiket</string>
+        <string name="tambah_pertandingan">Tambah Pertandingan</string>
+        <string name="pengaturan">Pengaturan</string>
+        <string name="selamat_datang">Selamat datang di Tiket Bola!</string>
+        <string name="deskripsi_beranda">Pesan tiket pertandingan favoritmu atau tambahkan laga terbaru sekarang juga!</string>
+        <string name="menu_tiket">Tiket</string>
+        <string name="menu_pertandingan">Pertandingan</string>
+        <string name="kembali">Kembali</string>
+        <string name="judul_pertandingan">Daftar Pertandingan</string>
+
+    </resources>
+
